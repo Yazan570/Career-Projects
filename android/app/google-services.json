@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029869072459",
+    "project_id": "fooddeliveryyazbox",
+    "storage_bucket": "fooddeliveryyazbox.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029869072459:android:83f54f8c5ff593624f9dce",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGg21SJ4Vrq6f-ByIyxeHBALaGuuXWxfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
